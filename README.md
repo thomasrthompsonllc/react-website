@@ -6,7 +6,8 @@
 This is a simple react website example.  If you do not have Node.js on your computer you will need to install it from https://nodejs.org/en/download/ . Included with Node.js is Node.js package manager (NPM).  To use this example copy the Zip file to your local machine.  Unzip the downloaded file then open the unzipped folder with Visual Studio Code.  In Visual Studio code open a new terminal and run "npm install "then "npm start."
 
 
-
+## Issues or Comments
+If there are issues or comments concerning this example please feel free to reach out to me by filing an issue or emailing me at tom@thomasrthompsonllc.com for help configuring your project.
 
 
 # Getting Started with Create React App
