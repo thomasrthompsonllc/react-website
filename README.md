@@ -7,7 +7,7 @@ This is a simple react website example.  If you do not have Node.js on your comp
 
 
 ## Issues or Comments
-If there are issues or comments concerning this example please feel free to reach out to me by filing an issue or emailing me at tom@thomasrthompsonllc.com for help configuring your project.
+If there are issues or comments concerning this example please feel free to reach out to me by filing an issue or emailing me at tom@thomasrthompsonllc.com .
 
 
 # Getting Started with Create React App
